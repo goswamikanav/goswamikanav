@@ -13,11 +13,57 @@
 
 - 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67932953565a02c8ebefde4c](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67932953565a02c8ebefde4c)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kanav-goswami26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanav-goswami26" height="30" width="40" /></a>
-<a href="https://discord.gg/4912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4912" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+## 🛠️ My Tech Stack
+
+### Manual Testing:
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-FFA500?style=flat)
+![Exploratory Testing](https://img.shields.io/badge/Exploratory_Testing-8E44AD?style=flat)
+![Smoke Testing](https://img.shields.io/badge/Smoke_Testing-FF9900?style=flat)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-3E8E41?style=flat)
+![Acceptance Testing](https://img.shields.io/badge/Acceptance_Testing-2ECC71?style=flat)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+
+
+### Languages:
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-FFE600?style=flat&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
+
+### Automation Testing:
+![Cypress](https://img.shields.io/badge/Cypress-061A35?style=flat&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-FFF200?style=flat&logo=selenium&logoColor=black)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-6DB33F?style=flat&logo=cucumber&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-DC3C24?style=flat&logo=testng&logoColor=white)
+
+
+### API Testing Tools:
+![RestAssured](https://img.shields.io/badge/RestAssured-2C6B1F?style=flat&logo=rest-assured&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+
+### Methodologies:
+![Agile](https://img.shields.io/badge/Agile-3EAA5C?style=flat)
+![TDD](https://img.shields.io/badge/TDD-FFB300?style=flat)
+![BDD](https://img.shields.io/badge/BDD-5C6BC0?style=flat)
+![POM](https://img.shields.io/badge/POM-FF6347?style=flat)
+
+
+
+Thanks for stopping by! 😊 Feel free to check out my repositories or connect with me.
+
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kanav-goswami26" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kanavgoswami11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
