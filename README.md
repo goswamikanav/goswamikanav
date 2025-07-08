@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kanavgoswami11@gmail.com**
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=686d4c910f08b606c3776ce3]
+- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=686d4d470f08b606c37772c0]
 
 ## 🛠️ My Tech Stack
 
